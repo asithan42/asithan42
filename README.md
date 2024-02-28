@@ -13,11 +13,6 @@
 
 - 📫 How to reach me **asithan42@gmail.com**
 
-<div align="center">
-  <a href="https://asithan42.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
